@@ -29,6 +29,8 @@ Section Two [Map]:
 =>The custom defaults of the map include zoom, rotate, full screen, zoom slider, and scale line.
 
 
+///////////////////Note: The Dark Mode works only on live server
+
 
 
 Our website was created by 
